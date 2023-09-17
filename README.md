@@ -5,7 +5,7 @@ The model was officially announced by Zamir _et al._ in [_Learning Enriched Feat
 
 [The official implementation by the authors of the paper](https://github.com/swz30/MIRNet)
 
-[The implementation achieved by S. Rakshit on keras.io](https://github.com/keras-team/keras-io/blob/master/examples/vision/mirnet.py)
+[The implementation achieved by S. Rakshit in Keras](https://github.com/keras-team/keras-io/blob/master/examples/vision/mirnet.py)
 
 ## Suggested/Used dataset:
 [LOL dataset: Google Drive source](https://drive.google.com/open?id=157bjO1_cFuSd0HWDUuAmcHRJDVyWpOxB)
